@@ -1,3 +1,3 @@
 # 2025NLP
 
-### Unist mini-project
+### UNIST mini-project
